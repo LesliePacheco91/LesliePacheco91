@@ -25,7 +25,7 @@ La librería tiene el objetivo de leer el archivo de tipo markdow, leer el conte
 
 **Logo:** Además de alcanzar lo objetivos de aprendizaje logré que los test unitarios alcancen a mas de 90%.
 
-**Herramientas utilizadas:** JavaScript, NodeJS,  GIT, JEST, FIREBASE
+**Herramientas utilizadas:** JavaScript, NodeJS,  GIT, JEST
 
 - ### Social NetWork:
   
