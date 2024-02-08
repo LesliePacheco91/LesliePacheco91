@@ -20,8 +20,34 @@ Con una sólida experiencia en [tu industria o campo], he tenido la oportunidad 
 ## Proyectos Destacados
 
 - **[Nombre del Proyecto 1]:** Breve descripción y resultados.
-- **[Nombre del Proyecto 2]:** Breve descripción y resultados.
-- **[Nombre del Proyecto 3]:** Breve descripción y resultados.
+
+- **[MDLIKNS]:**
+La librería tiene el objetivo de leer el archivo markdow, leer el contenido, enlistar los links que esta contiene, al validarlas muestra los estatus de los links y muestra los datos estadísticos de la misma. La libreía fue desplegado en la plataforma NPMJS.
+Logo: Además de lograr lo objetivos de aprendizaje logre que los test unitarios logren pasar a mas de 90%, logré 
+
+- **[Social NetWork]:** 
+Aplicación se trata de una red social para la publicación de reseñas gastronómicas, en el que los comensales podrán opinar sobre algún restaurant o puesto de comida. La apliación se podrá visualizar la imagen, dirección, categoría y la calificación mediante estalas de 1 al 5 utilizando iconos, de igual manera se podrá dar me gusta y editar o eliminar la publicación la persona que la haya realizado, la aplicación se podrá iniciar mediante usuario y contraseña o con alguna cuenta de Google.
+
+Logro: Además de lograr los objetivos de aprendizaje, como equipo utilizamos ventanas emergentes y diversos iconos para mayor interactividad y mejor visualización de las calificaciones.
+JavaScript, HTML, CSS, GIT, JEST, FIREBASE
+
+- **[Data lovers]:** 
+Aplicación que se encarga de visualizar una lista de personajes de una serie de televisión, y que se pueda filtrar por estatus de vida, estatus de género y estatus de especie. De igual forma se puede visualizar la data de forma ascendente y descendente por nombre del personaje o id, como plus se implementó la visualización de datos estadísticos utilizando gráficos.  
+Logro: además de lograr los objetivos de aprendizaje, como equipo nos retamos en incluir datos estadísticos mediante gráficos y filtrar los elementos de manera ascendente utilizando 2 elementos en lugar de uno.
+JavaScript, HTML, CSS, GIT, JEST, CHART.JS.
+
+- **[Text analyzer]:** 
+Aplicación que se encarga de realizar el conteo de palabras, caracteres y numero al ingresar una cadena de texto.
+
+Logro: logre finalizar el proyecto 1 sprint antes cubriendo los objetivos de aprendizajes lo que me ayudó a avanzar en el siguiente proyecto destacando el rápido aprendizaje.
+JavaScript, HTML, CSS.
+
+- **[Aplicación web para la evaluación docente]:*
+Aplicación web que tiene la funcionalidad de generar los resultados obtenidos de la evaluación docente realizados por los alumnos mediante un formulario web. Cabe mencionar que los resultados son arrojados mediante gráficos y podrá imprimirse el resultado en formato PDF. 
+
+Logro: mediante la aplicación web se logró agilar el proceso de evaluación docente en un 60%, ya que la universidad cuenta con aproximadamente 800 alumnos por lo cual resulta exhaustivo y retardado realizarlo de manera tradicional, sin olvidar que cada generación va en aumento el número de alumnos.
+PHP, Bootstrap, MySQL Server, Wamp server, DOMPFD, MVC, POO.
+
 
 
 
