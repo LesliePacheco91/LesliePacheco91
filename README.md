@@ -1,5 +1,5 @@
 # 💫 Acerca de mí
-hola soy leslie
+hola!! soy Leslie
 
 Como desarrolladora web, estoy comprometida con el constante aprendizaje y la búsqueda de soluciones innovadoras. Disfruto trabajando en equipo, colaborando estrechamente para alcanzar objetivos comunes y superar desafíos técnicos. Mi pasión por la tecnología y mi dedicación al desarrollo web me impulsan a crear experiencias digitales impactantes y funcionales.
 
