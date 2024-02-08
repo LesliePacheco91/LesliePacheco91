@@ -67,6 +67,7 @@ Aplicación web que tiene la funcionalidad de generar los resultados obtenidos d
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lesliesharaipacheco/)
 
+[Portafolio digital](http://portafoliolp.com/)
 
 
 # 💻 Habilidades Técnicas:
