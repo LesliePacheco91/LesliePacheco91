@@ -1,7 +1,7 @@
 # 💫 Acerca de mí
 hola soy leslie
 
-¡Hola! Soy Leslie, un apasionado web developer con un amor innato por [algún aspecto relevante]. A lo largo de los años, he cultivado mi habilidad en [habilidades clave] y he trabajado en [experiencia laboral o proyectos destacados].
+Como desarrolladora web, estoy comprometida con el constante aprendizaje y la búsqueda de soluciones innovadoras. Disfruto trabajando en equipo, colaborando estrechamente para alcanzar objetivos comunes y superar desafíos técnicos. Mi pasión por la tecnología y mi dedicación al desarrollo web me impulsan a crear experiencias digitales impactantes y funcionales.
 
 ## Mis Intereses
 
