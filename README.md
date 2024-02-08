@@ -21,7 +21,7 @@ Con una sólida experiencia en [tu industria o campo], he tenido la oportunidad 
 
 - ### MDLIKNS:
   
-La librería tiene el objetivo de leer el archivo markdow, leer el contenido, enlistar los links que esta contiene, al validarlas muestra los estatus de los links y muestra los datos estadísticos de la misma. La libreía fue desplegado en la plataforma NPMJS.
+La librería tiene el objetivo de leer el archivo de tipo markdow, leer el contenido, enlistar los links que esta contiene, al validarlas muestra los estatus de los links y muestra los datos estadísticos de la misma. La libreía fue desplegado en la plataforma NPMJS.
 
 **Logo:** Además de alcanzar lo objetivos de aprendizaje logré que los test unitarios alcancen a mas de 90%.
 
