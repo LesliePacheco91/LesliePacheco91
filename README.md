@@ -20,6 +20,7 @@ Como desarrolladora web, encuentro paralelismos entre mis intereses personales y
 
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lesliesharaipacheco/)
+[![Trailhead](https://www.salesforce.com/trailblazer/profile)
 
 [Portafolio digital](https://lesliepacheco91.github.io/myCv/)
 
