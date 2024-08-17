@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png" width="800"/>
+  <img decoding="async" src="https://media.licdn.com/dms/image/v2/D5616AQHnfWYV6SEayA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708623889249?e=1729123200&v=beta&t=P1bxHt0M1yL-EZeQy_EFyKS8mX_U4LOBNcB92SLjUls" width="1000"/>
 </div>
 # 💫 Acerca de mí
 hola!! soy Leslie
