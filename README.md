@@ -4,7 +4,6 @@
 </div>
 
 ## 💫 Acerca de mí
-hola!! soy Leslie
 
 Como desarrolladora web, estoy comprometida con el constante aprendizaje y la búsqueda de soluciones innovadoras. Disfruto trabajando en equipo, colaborando estrechamente para alcanzar objetivos comunes y superar desafíos técnicos. Mi pasión por la tecnología y mi dedicación al desarrollo web me impulsan a crear experiencias digitales impactantes y funcionales.
 
@@ -24,7 +23,8 @@ Como desarrolladora web, encuentro paralelismos entre mis intereses personales y
 
 
 ## 🌐 Redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lesliesharaipacheco/)
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lesliesharaipacheco/)
 
 [Trailhead](https://www.salesforce.com/trailblazer/profile)
 
