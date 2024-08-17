@@ -3,9 +3,6 @@
   <img decoding="async" src="https://media.licdn.com/dms/image/v2/D5616AQHnfWYV6SEayA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708623889249?e=1729123200&v=beta&t=P1bxHt0M1yL-EZeQy_EFyKS8mX_U4LOBNcB92SLjUls" width="1000"/>
 </div>
 
-# total de contribuciones
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LesliePacheco91&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ## 💫 Acerca de mí
 
 Como desarrolladora web, estoy comprometida con el constante aprendizaje y la búsqueda de soluciones innovadoras. Disfruto trabajando en equipo, colaborando estrechamente para alcanzar objetivos comunes y superar desafíos técnicos. Mi pasión por la tecnología y mi dedicación al desarrollo web me impulsan a crear experiencias digitales impactantes y funcionales.
