@@ -26,12 +26,7 @@ Como desarrolladora web, encuentro paralelismos entre mis intereses personales y
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lesliesharaipacheco/)
 [![Static Badge](https://img.shields.io/badge/TrailHead-%230d9dda?style=for-the-badge)](https://www.salesforce.com/trailblazer/profile)
-
-
-
-[Trailhead](https://www.salesforce.com/trailblazer/profile)
-
-[Portafolio digital](https://lesliepacheco91.github.io/myCv/)
+[![Static Badge](https://img.shields.io/badge/Portafolio-%23200046?style=for-the-badge)](https://lesliepacheco91.github.io/myCv/)
 
 
 # 💻 Habilidades Técnicas:
