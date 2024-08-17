@@ -43,6 +43,9 @@ Como desarrolladora web, encuentro paralelismos entre mis intereses personales y
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LesliePacheco91&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+##
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LesliePacheco91&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=LesliePacheco91&icon=5&color=0)](https://visitcount.itsvg.in)
 
